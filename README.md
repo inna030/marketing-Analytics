@@ -1,2 +1,2 @@
 # marketing-Analytics
- Coursework
+ Course material and coursework
